@@ -20,17 +20,17 @@ public class HelloApplication extends Application {
             new Mahasiswa(3, "124123", "Jono"),
             new Mahasiswa(4, "1241234", "Agus"),
             new Mahasiswa(5, "1242603", "Xiumin"),
-            new Mahasiswa(7, "1242004", "Luhan"),
-            new Mahasiswa(8, "1240611", "Kris"),
-            new Mahasiswa(9, "1242205", "Suho"),
-            new Mahasiswa(10, "1240710", "Lay"),
-            new Mahasiswa(11, "1240605", "Baekhyun"),
-            new Mahasiswa(12, "1242109", "Chen"),
-            new Mahasiswa(13, "1242709", "Chanyeol"),
-            new Mahasiswa(14, "1241201", "Kyungsoo"),
-            new Mahasiswa(15, "1240205", "Tao"),
-            new Mahasiswa(16, "1241401", "Kai"),
-            new Mahasiswa(17, "1241204", "Sehun")
+            new Mahasiswa(6, "1242004", "Luhan"),
+            new Mahasiswa(7, "1240611", "Kris"),
+            new Mahasiswa(8, "1242205", "Suho"),
+            new Mahasiswa(9, "1240710", "Lay"),
+            new Mahasiswa(10, "1240605", "Baekhyun"),
+            new Mahasiswa(11, "1242109", "Chen"),
+            new Mahasiswa(12, "1242709", "Chanyeol"),
+            new Mahasiswa(13, "1241201", "Kyungsoo"),
+            new Mahasiswa(14, "1240205", "Tao"),
+            new Mahasiswa(15, "1241401", "Kai"),
+            new Mahasiswa(16, "1241204", "Sehun")
     );
 
     @Override
